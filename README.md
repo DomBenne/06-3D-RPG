@@ -1,8 +1,17 @@
-# 3D-Character
+# 06-3D-RPG
 
-An animated 3D character that can be used in the 3D-RPG project.
-
-Based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-assets) provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
+A three-dimensional game where you can explore a small world as a cyborg character 4/30/22.
 
 ## Implementation
-Created in Blender 2.90.1 and Godot 3.2.2
+Built using Godot 3.2.3
+
+## References
+https://kenney.nl/assets/blocky-characters
+https://kenney.nl/assets/platformer-kit
+https://www.patreon.com/posts/blender-export-16916038
+
+## Future Development
+A more polished enemy type may be added eventually, as well as multiple levels that are larger, as well as dialouge.
+
+## Created by 
+Dominic Bennett
